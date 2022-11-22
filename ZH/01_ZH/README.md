@@ -24,7 +24,7 @@ Az elkészített feladat akkor elfogadható, ha:
 
 ### Példa
 #### Input:
-```
+```c
 Kerem toltse ki a szelvenyet:
 $>1
 $>2
@@ -35,7 +35,7 @@ $>4
 $>5
 ```
 #### Output:
-```
+```c
 A het nyero szamai: 5 15 21 49 72
 Az on altal eltalalt szamok: 5
 On 1 szamot talalt el.

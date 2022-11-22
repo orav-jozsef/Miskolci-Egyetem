@@ -1,5 +1,5 @@
 # Basics of Programming
-## 4. Othoni Gyakorló Feladatok
+## 4. Otthoni Gyakorló Feladatok
 
 ### Feladatok
 #### 1. Feladt

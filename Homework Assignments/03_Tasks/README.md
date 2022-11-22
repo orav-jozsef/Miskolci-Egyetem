@@ -1,5 +1,5 @@
 # Basics of Programming
-## 3. Othoni Gyakorló Feladatok
+## 3. Otthoni Gyakorló Feladatok
 
 ### Feladatok
 #### 1. Feladt
@@ -20,7 +20,7 @@
 
 #### 4. Feladt
 - ```N``` oldalú négyzet (oldalai ```N``` db. ```*```-ból állnak) egyik átlója, és az alatta/felette lévő terület rajzolása.
-    ```
+    ```c
     *****
     *   *
     *   *
@@ -31,7 +31,7 @@
 #### 5. Feladt
 - Rajzoljon ki a képernyőre csillagokból egy E betűt!
     - A betű magasságát kérje be és ellenőrizze, hogy a megadott szám pozitív páratlan szám legyen.
-    ```
+    ```c
     ***
     *
     ***
@@ -41,7 +41,7 @@
 
 #### 6. Feladt
 - Az E betű tükrözésével rajzoljon ki csillagokból 3-ast a képernyőre!
-    ```
+    ```c
     ***
       *
     ***
@@ -52,7 +52,7 @@
 #### 7. Feladt
 - Rajzoljon ki ```#``` karakterekből egy paralelogrammát.
     - A magasságát és a szélességét olvassa be!
-    ```
+    ```c
        ########
       #      #
      #      #
@@ -79,7 +79,7 @@ AMÍG sor <= magasság ADDIG
     sor := sor+1
 CIKLUS vége
 ```
-```
+```c
     *
    ***
   *****
@@ -90,7 +90,7 @@ CIKLUS vége
 #### 9. Feladt
 - Módosítsa az előző algoritmust:
     - csak háztetőt, illetve csak a háromszög keretét rajzolja ki!
-    ```
+    ```c
         *
        * *
       *   *
